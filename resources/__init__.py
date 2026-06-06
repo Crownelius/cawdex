@@ -1,1 +1,0 @@
-"""cawdex packaged runtime resources."""
